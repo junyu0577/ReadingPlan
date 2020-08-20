@@ -2,6 +2,8 @@
 
 ### 2020
 
+- [ ]  [非暴力沟通](https://book.douban.com/subject/30761952/)  by 马歇尔·卢森堡
+ 
 - [ ]  [富爸爸穷爸爸 : 20周年修订版](https://book.douban.com/subject/27153484/)  by 罗伯特·清崎
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
