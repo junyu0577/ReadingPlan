@@ -2,6 +2,10 @@
 
 ### 2020
 
+- [ ]  [定投十年财务自由](https://book.douban.com/subject/34836784/)  by 银行螺丝钉
+
+- [ ]  [洛克菲勒留给儿子的38封信](https://book.douban.com/subject/1161817/)  by 约翰·D·洛克菲勒
+
 - [ ]  [小狗钱钱](https://book.douban.com/subject/3576486/)  by 博多·舍费尔
 
 - [ ]  [牛奶可乐经济学](https://book.douban.com/subject/26979305/)  by 罗伯特·弗兰克
