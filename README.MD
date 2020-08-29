@@ -2,6 +2,10 @@
 
 ### 2020
 
+- [ ]  [人类简史-从动物到上帝](https://book.douban.com/subject/26953606/)  by 尤瓦尔·赫拉利
+
+- [ ]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗
+
 - [ ]  [定投十年财务自由](https://book.douban.com/subject/34836784/)  by 银行螺丝钉
 
 - [ ]  [洛克菲勒留给儿子的38封信](https://book.douban.com/subject/1161817/)  by 约翰·D·洛克菲勒
