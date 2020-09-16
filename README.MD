@@ -8,8 +8,6 @@
 
 - [ ]  [洛克菲勒留给儿子的38封信](https://book.douban.com/subject/1161817/)  by 约翰·D·洛克菲勒
 
-- [ ]  [小狗钱钱](https://book.douban.com/subject/3576486/)  by 博多·舍费尔
-
 - [ ]  [非暴力沟通](https://book.douban.com/subject/30761952/)  by 马歇尔·卢森堡
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
@@ -17,6 +15,8 @@
 - [ ]  [图解HTTP](https://book.douban.com/subject/25863515/)  by 上野宣
 
 - [ ]  [软件设计师教程（第五版）](https://book.douban.com/subject/30354729/)  by 褚华 / 霍秋艳
+
+- [x]  [小狗钱钱](https://book.douban.com/subject/3576486/)  by 博多·舍费尔
 
 - [x]  [指数基金投资指南](https://book.douban.com/subject/27204860/)  by 银行螺丝钉 , 九月
 
