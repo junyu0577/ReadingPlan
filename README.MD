@@ -18,7 +18,11 @@
 
 - [ ]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗
 
+- [ ]  [战胜华尔街](https://book.douban.com/subject/2189613/)  by 彼得·林奇 / 约翰·罗瑟查尔德
+
 - [ ]  [投资中最简单的事](https://book.douban.com/subject/26163553/)  by 邱国鹭
+
+- [ ]  [投资最重要的事（全新升级版）](https://book.douban.com/subject/26634824/)  by 霍华德·马克斯
 
 - [ ]  [巴菲特之道](https://book.douban.com/subject/26335181/)  by 罗伯特·哈格斯特朗
 
