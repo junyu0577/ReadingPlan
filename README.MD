@@ -14,8 +14,6 @@
 
 - [ ]  [非暴力沟通](https://book.douban.com/subject/30761952/)  by 马歇尔·卢森堡
 
-- [ ]  [洛克菲勒留给儿子的38封信](https://book.douban.com/subject/1161817/)  by 约翰·D·洛克菲勒
-
 - [ ]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗
 
 - [ ]  [战胜华尔街](https://book.douban.com/subject/2189613/)  by 彼得·林奇 / 约翰·罗瑟查尔德
@@ -24,6 +22,8 @@
 
 - [ ]  [投资最重要的事（全新升级版）](https://book.douban.com/subject/26634824/)  by 霍华德·马克斯
 
+- [ ]  [聪明的投资者](https://book.douban.com/subject/5243775/)  by 本杰明·格雷厄姆
+
 - [ ]  [巴菲特之道](https://book.douban.com/subject/26335181/)  by 罗伯特·哈格斯特朗
 
 - [ ]  [斯坦福极简经济学](https://book.douban.com/subject/26314063/)  by 蒂莫西‧泰勒
@@ -31,6 +31,8 @@
 - [ ]  [经济学的思维方式](https://book.douban.com/subject/30274068/)  by 托马斯·索维尔
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
+
+- [x]  [洛克菲勒留给儿子的38封信](https://book.douban.com/subject/1161817/)  by 约翰·D·洛克菲勒 , 九月
 
 - [x]  [小狗钱钱](https://book.douban.com/subject/3576486/)  by 博多·舍费尔 , 九月
 
