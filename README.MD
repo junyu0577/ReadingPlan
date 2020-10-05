@@ -18,8 +18,6 @@
 
 - [ ]  [战胜华尔街](https://book.douban.com/subject/2189613/)  by 彼得·林奇 / 约翰·罗瑟查尔德
 
-- [ ]  [投资中最简单的事](https://book.douban.com/subject/26163553/)  by 邱国鹭
-
 - [ ]  [投资最重要的事（全新升级版）](https://book.douban.com/subject/26634824/)  by 霍华德·马克斯
 
 - [ ]  [聪明的投资者](https://book.douban.com/subject/5243775/)  by 本杰明·格雷厄姆
@@ -31,6 +29,8 @@
 - [ ]  [经济学的思维方式](https://book.douban.com/subject/30274068/)  by 托马斯·索维尔
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
+
+- [x]  [投资中最简单的事](https://book.douban.com/subject/26163553/)  by 邱国鹭 , 十月
 
 - [x]  [洛克菲勒留给儿子的38封信](https://book.douban.com/subject/1161817/)  by 约翰·D·洛克菲勒 , 九月
 
