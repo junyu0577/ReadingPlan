@@ -10,8 +10,6 @@
 
 - [ ]  [从一到无穷大](https://book.douban.com/subject/30466214/)  by 乔治·伽莫夫
 
-- [ ]  [如何阅读一本书](https://book.douban.com/subject/1013208/)  by 莫提默·J. 艾德勒 / 查尔斯·范多伦
-
 - [ ]  [非暴力沟通](https://book.douban.com/subject/30761952/)  by 马歇尔·卢森堡
 
 - [ ]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗
@@ -29,6 +27,8 @@
 - [ ]  [经济学的思维方式](https://book.douban.com/subject/30274068/)  by 托马斯·索维尔
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
+
+- [x]  [如何阅读一本书](https://book.douban.com/subject/1013208/)  by 莫提默·J. 艾德勒 / 查尔斯·范多伦 , 十一月
 
 - [x]  [投资中最简单的事](https://book.douban.com/subject/26163553/)  by 邱国鹭 , 十月
 
