@@ -1,6 +1,6 @@
 # reading plans
 
-### 2020
+### 2021
 
 - [ ]  [人类简史-从动物到上帝](https://book.douban.com/subject/26953606/)  by 尤瓦尔·赫拉利
 
@@ -27,6 +27,10 @@
 - [ ]  [经济学的思维方式](https://book.douban.com/subject/30274068/)  by 托马斯·索维尔
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
+
+- [x]  [稳赢投资：上班族股市制胜之道](https://book.douban.com/subject/33401835/)  by 吴飞 , 一月
+
+### 2020
 
 - [x]  [如何阅读一本书](https://book.douban.com/subject/1013208/)  by 莫提默·J. 艾德勒 / 查尔斯·范多伦 , 十一月
 
