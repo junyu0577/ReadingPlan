@@ -18,7 +18,11 @@
 
 - [ ]  [投资的本源](https://book.douban.com/subject/26717621/)  by 宋军
 
+- [ ]  [投资第一课](https://book.douban.com/subject/26425918/)  by 那一水的鱼
+
 - [ ]  [一个投资家的20年(第2版)](https://book.douban.com/subject/30163241/)  by 杨天南
+
+- [ ]  [经济学原理-宏观经济学分册](https://book.douban.com/subject/26435630/)  by 曼昆
 
 - [ ]  [戴维斯王朝](https://book.douban.com/subject/30316742/)  by 约翰·罗斯柴尔德
 
