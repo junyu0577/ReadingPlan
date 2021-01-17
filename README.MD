@@ -12,6 +12,16 @@
 
 - [ ]  [非暴力沟通](https://book.douban.com/subject/30761952/)  by 马歇尔·卢森堡
 
+- [ ]  [成为乔布斯](https://book.douban.com/subject/26849305/)  by 布伦特·施兰德 / 里克·特策利
+
+- [ ]  [结构性改革 : 中国经济的问题与对策](https://book.douban.com/subject/35147504/)  by 黄奇帆
+
+- [ ]  [投资的本源](https://book.douban.com/subject/26717621/)  by 宋军
+
+- [ ]  [一个投资家的20年(第2版)](https://book.douban.com/subject/30163241/)  by 杨天南
+
+- [ ]  [戴维斯王朝](https://book.douban.com/subject/30316742/)  by 约翰·罗斯柴尔德
+
 - [ ]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗
 
 - [ ]  [战胜华尔街](https://book.douban.com/subject/2189613/)  by 彼得·林奇 / 约翰·罗瑟查尔德
