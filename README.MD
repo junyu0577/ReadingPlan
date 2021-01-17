@@ -20,13 +20,13 @@
 
 - [ ]  [聪明的投资者](https://book.douban.com/subject/5243775/)  by 本杰明·格雷厄姆
 
-- [ ]  [巴菲特之道](https://book.douban.com/subject/26335181/)  by 罗伯特·哈格斯特朗
-
 - [ ]  [斯坦福极简经济学](https://book.douban.com/subject/26314063/)  by 蒂莫西‧泰勒
 
 - [ ]  [经济学的思维方式](https://book.douban.com/subject/30274068/)  by 托马斯·索维尔
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
+
+- [x]  [巴菲特之道](https://book.douban.com/subject/26335181/)  by 罗伯特·哈格斯特朗, 一月
 
 - [x]  [稳赢投资：上班族股市制胜之道](https://book.douban.com/subject/33401835/)  by 吴飞 , 一月
 
