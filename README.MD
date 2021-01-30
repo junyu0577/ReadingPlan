@@ -20,8 +20,6 @@
 
 - [ ]  [投资第一课](https://book.douban.com/subject/26425918/)  by 那一水的鱼
 
-- [ ]  [一个投资家的20年(第2版)](https://book.douban.com/subject/30163241/)  by 杨天南
-
 - [ ]  [经济学原理-宏观经济学分册](https://book.douban.com/subject/26435630/)  by 曼昆
 
 - [ ]  [戴维斯王朝](https://book.douban.com/subject/30316742/)  by 约翰·罗斯柴尔德
@@ -39,6 +37,12 @@
 - [ ]  [经济学的思维方式](https://book.douban.com/subject/30274068/)  by 托马斯·索维尔
   
 - [ ]  [基金定投-让财富滚雪球](https://book.douban.com/subject/30364214/)  by 老罗
+
+- [ ]  [手把手教你读财报（新准则升级版）](https://book.douban.com/subject/35299355/)  by 唐朝
+
+- [ ]  [海龟交易法则](https://book.douban.com/subject/24325274/)  by 柯蒂斯·费思
+
+- [x]  [一个投资家的20年(第2版)](https://book.douban.com/subject/30163241/)  by 杨天南, 一月
 
 - [x]  [巴菲特之道](https://book.douban.com/subject/26335181/)  by 罗伯特·哈格斯特朗, 一月
 
