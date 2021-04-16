@@ -12,8 +12,6 @@
 
 - [ ]  [非暴力沟通](https://book.douban.com/subject/30761952/)  by 马歇尔·卢森堡
 
-- [ ]  [成为乔布斯](https://book.douban.com/subject/26849305/)  by 布伦特·施兰德 / 里克·特策利
-
 - [ ]  [结构性改革 : 中国经济的问题与对策](https://book.douban.com/subject/35147504/)  by 黄奇帆
 
 - [ ]  [投资的本源](https://book.douban.com/subject/26717621/)  by 宋军
@@ -41,6 +39,10 @@
 - [ ]  [手把手教你读财报（新准则升级版）](https://book.douban.com/subject/35299355/)  by 唐朝
 
 - [ ]  [海龟交易法则](https://book.douban.com/subject/24325274/)  by 柯蒂斯·费思
+
+- [ ]  [创新公司](https://book.douban.com/subject/26314955/)  by 艾德·卡特姆 / 埃米·华莱士
+
+- [x]  [成为乔布斯](https://book.douban.com/subject/26849305/)  by 布伦特·施兰德 / 里克·特策利, 四月
 
 - [x]  [一个投资家的20年(第2版)](https://book.douban.com/subject/30163241/)  by 杨天南, 一月
 
