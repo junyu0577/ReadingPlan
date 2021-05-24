@@ -2,8 +2,6 @@
 
 ### 2021
 
-- [ ]  [人类简史-从动物到上帝](https://book.douban.com/subject/26953606/)  by 尤瓦尔·赫拉利
-
 - [ ]  [图解HTTP](https://book.douban.com/subject/25863515/)  by 上野宣
 
 - [ ]  [软件设计师教程（第五版）](https://book.douban.com/subject/30354729/)  by 褚华 / 霍秋艳
@@ -41,6 +39,8 @@
 - [ ]  [海龟交易法则](https://book.douban.com/subject/24325274/)  by 柯蒂斯·费思
 
 - [ ]  [创新公司](https://book.douban.com/subject/26314955/)  by 艾德·卡特姆 / 埃米·华莱士
+
+- [x]  [人类简史-从动物到上帝](https://book.douban.com/subject/26953606/)  by 尤瓦尔·赫拉利, 五月
 
 - [x]  [成为乔布斯](https://book.douban.com/subject/26849305/)  by 布伦特·施兰德 / 里克·特策利, 四月
 
