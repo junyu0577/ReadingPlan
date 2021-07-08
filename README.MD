@@ -20,8 +20,6 @@
 
 - [ ]  [戴维斯王朝](https://book.douban.com/subject/30316742/)  by 约翰·罗斯柴尔德
 
-- [ ]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗
-
 - [ ]  [战胜华尔街](https://book.douban.com/subject/2189613/)  by 彼得·林奇 / 约翰·罗瑟查尔德
 
 - [ ]  [投资最重要的事（全新升级版）](https://book.douban.com/subject/26634824/)  by 霍华德·马克斯
@@ -39,6 +37,10 @@
 - [ ]  [海龟交易法则](https://book.douban.com/subject/24325274/)  by 柯蒂斯·费思
 
 - [ ]  [创新公司](https://book.douban.com/subject/26314955/)  by 艾德·卡特姆 / 埃米·华莱士
+
+- [x]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗, 七月
+
+- [x]  [股票投资入门与实战技巧](https://book.douban.com/subject/26272155/)  by  王坤, 六月
 
 - [x]  [人类简史-从动物到上帝](https://book.douban.com/subject/26953606/)  by 尤瓦尔·赫拉利, 五月
 
