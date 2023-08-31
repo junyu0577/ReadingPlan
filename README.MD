@@ -1,6 +1,6 @@
 # reading plans
 
-### 2021
+### 2023
 
 - [ ]  [图解HTTP](https://book.douban.com/subject/25863515/)  by 上野宣
 
@@ -36,7 +36,16 @@
 
 - [ ]  [海龟交易法则](https://book.douban.com/subject/24325274/)  by 柯蒂斯·费思
 
-- [ ]  [创新公司](https://book.douban.com/subject/26314955/)  by 艾德·卡特姆 / 埃米·华莱士
+### 2022
+
+- [x]  [微习惯 : 简单到不可能失败的自我管理法则](https://book.douban.com/subject/26877306/)  by 斯蒂芬·盖斯, 九月
+
+- [x]  [创新公司](https://book.douban.com/subject/26314955/)  by 艾德·卡特姆 / 埃米·华莱士, 八月
+
+- [x]  [高情商聊天术](https://book.douban.com/subject/27196897/)  by 张超, 七月
+
+
+### 2021
 
 - [x]  [股票大作手回忆录](https://book.douban.com/subject/27601129/)  by 埃德温·勒菲弗, 七月
 
