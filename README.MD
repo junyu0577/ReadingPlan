@@ -36,6 +36,9 @@
 
 - [ ]  [海龟交易法则](https://book.douban.com/subject/24325274/)  by 柯蒂斯·费思
 
+- [x]  [纳瓦尔宝典 : 财富与幸福指南](https://book.douban.com/subject/35876121/)  by 埃里克·乔根森
+
+
 ### 2022
 
 - [x]  [微习惯 : 简单到不可能失败的自我管理法则](https://book.douban.com/subject/26877306/)  by 斯蒂芬·盖斯, 九月
